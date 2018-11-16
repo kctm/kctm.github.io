@@ -1,16 +1,16 @@
 title: zhh  
 description: My Personal Blog
 author: Zhang Hao
-logo: /hcz-jekyll-blog/static/img/avatar.png
+logo: /kctm.github.io/static/img/avatar.png
 github: https://github.com/kctm
-about: Freelance developer
+about: Will be ok~
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+##disqus_shortname: aboutashu
 baidu_analytics: 0fabf3decc66f37a1590a2d6a806375f
 
 share:
